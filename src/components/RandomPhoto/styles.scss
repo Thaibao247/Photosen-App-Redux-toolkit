@@ -1,0 +1,11 @@
+.random-photo{
+
+    &__photo{
+        margin-top: 10px;
+        & > img{
+            height: 400px;
+            width: 300px;
+            border-radius: 10px;
+        }
+    }
+}

@@ -1,0 +1,19 @@
+.photo-main{
+    &__link{
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        a{
+            text-decoration: none;
+            text-transform: uppercase;
+            color: greenyellow;
+            border: 1px solid greenyellow;
+            &:hover{
+                color: black;
+                background-color: greenyellow;
+                border:1px solid white;
+            }
+        }
+    }
+}
