@@ -1,4 +1,4 @@
-# Reactjs Bacsic Photo-Âpp
+# Reactjs Bacsic Photo-App
 
-#Using redux/toolkit and hooks
+#Using redux/toolkit and hooks   
 #Demo: https://tntb-photosen.surge.sh
