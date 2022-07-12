@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Reactjs Bacsic
 
-This project is Photo-app
-Demo: https://tntb-photosen.surge.sh
+#This project is Photo-app
+#Demo: https://tntb-photosen.surge.sh
